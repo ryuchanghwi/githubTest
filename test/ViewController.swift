@@ -14,6 +14,10 @@ class ViewController: UIViewController {
         // Do any additional setup after loading the view.
         print("hi")
         print("hello")
+        
+        print("dslf")
+        print("sdlkfjsldf")
+        
     }
 
 
